@@ -22,6 +22,8 @@
 
 A RESTful API built with Node.js, Express.js, and PostgreSQL for managing and accessing automotive diagnostic data. This API provides endpoints to retrieve prescreen diagnostic information including vehicle details, problems, DTCs (Diagnostic Trouble Codes), and resolutions.
 
+This API was developed to serve the cleaned automotive diagnostic data processed in the [automotive_diagnostic_data_cleaning](https://github.com/hydra-code-repository/automotive_diagnostic_data_cleaning) project. After the data cleaning and preparation phase, this API enables practical utilization of the cleaned datasets through RESTful endpoints for integration with other applications and analysis tools.
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
