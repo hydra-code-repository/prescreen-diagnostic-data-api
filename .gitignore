@@ -1,0 +1,5 @@
+# Ignore the database credentials and sensitive info
+.env
+
+# Ignore installed dependencies and decrease project's size.
+node_modules/ 
